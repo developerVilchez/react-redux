@@ -1,4 +1,11 @@
 .form {
     border: 1px solid blue;
     padding: 2px;
+    text-align: center;
+}
+
+input[type="text"] {
+    margin-top: 8px;
+    width: 70%;
+
 }
